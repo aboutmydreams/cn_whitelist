@@ -1,6 +1,6 @@
 # cn_whitelist
 cn site whitelist
-'''
+```
 baidu.com
 yuque.com
 csdn.net
@@ -31702,5 +31702,5 @@ xz.pphimalayanrt.com
 .imayitxt.com
 .imazingchina.com
 .imbackr.com
-'''
+```
 
